@@ -1,16 +1,10 @@
 # disenos_app
 
-A new Flutter project.
+En esta aplicación de diseños únicamente se diseñó para
+practicar algunos diseños vistos, para así implementar 
+las funciones que dan diseño a una aplicación.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Se realizó 3 estilos distintos:
+  - Básico - recomendado por Flutter.
+  - Intermedio - Con PageViews e imágenes.
+  - Avanzado - Con blur, grids background, table, TableRow.
